@@ -3,7 +3,8 @@
 <suite name="Test Suite" >
    <test name="Sanity Test">
     <classes>      
-       <class name="Mathi2.SeleniumTest2.DownloadfilefromIE"/>         
+       <class name="Mathi2.SeleniumTest2.DownloadfilefromIE"/>  
+       <class name="Mathi2.SeleniumTest2.DragandDropTest"/>         
       </classes>
    </test>  
 </suite> 
