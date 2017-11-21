@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="Mathi2.SeleniumTest2.DownloadfilefromIE">
+        <methods>
+          <include name="DownloadfileTest"/>
+        </methods>
+      </class> <!-- Mathi2.SeleniumTest2.DownloadfilefromIE -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

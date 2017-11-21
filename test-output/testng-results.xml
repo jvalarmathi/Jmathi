@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10992" started-at="2017-11-20T16:36:32Z" finished-at="2017-11-20T16:36:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10992" started-at="2017-11-20T16:36:32Z" finished-at="2017-11-20T16:36:43Z">
+      <class name="Mathi2.SeleniumTest2.DownloadfilefromIE">
+        <test-method status="PASS" signature="DownloadfileTest()[pri:0, instance:Mathi2.SeleniumTest2.DownloadfilefromIE@7d9d1a19]" name="DownloadfileTest" duration-ms="10965" started-at="2017-11-20T22:06:32Z" finished-at="2017-11-20T22:06:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DownloadfileTest -->
+      </class> <!-- Mathi2.SeleniumTest2.DownloadfilefromIE -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
