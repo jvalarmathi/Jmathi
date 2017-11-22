@@ -10,8 +10,6 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.testng.annotations.Test;
 
-import Objects.DragandDrop;
-
 public class DragandDropTest {
 	@Test
 	public void Draganddroptest() throws InterruptedException
@@ -22,6 +20,7 @@ public class DragandDropTest {
 		WebDriver driver= new ChromeDriver();
 		driver.get("http://demo.guru99.com/selenium/drag_drop.html");
 		Thread.sleep(2000);
+		
 	WebElement From=driver.findElement(By.xpath(".//*[@id='credit2']/a"));
 	WebElement To=driver.findElement(By.xpath(".//*[@id='bank']/li"));
 				
