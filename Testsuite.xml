@@ -4,8 +4,7 @@
    <test name="Sanity Test">
     <classes>      
        <class name="Mathi2.SeleniumTest2.DownloadfilefromIE"/>  
-       <class name="Mathi2.SeleniumTest2.DragandDropTest"/>      
-       <class name="Mathi2.SeleniumTest2.ReadExcel"/>   
+       <class name="Mathi2.SeleniumTest2.DragandDropTest"/>
       </classes>
    </test>  
 </suite> 
